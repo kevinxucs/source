@@ -8,15 +8,15 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=mwlwifi
-PKG_VERSION:=10.3.4.0.git-2017-06-06
+PKG_VERSION:=10.3.4.0.git-2017-07-13
 PKG_RELEASE=1
 
 PKG_LICENSE:=ISC
 PKG_LICENSE_FILES:=
 
-PKG_SOURCE_URL:=https://github.com/kaloz/mwlwifi
+PKG_SOURCE_URL:=https://github.com/kevinxucs/mwlwifi
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_VERSION:=36bc32767ed89e07c5c83036861d2fa4eb1f8629
+PKG_SOURCE_VERSION:=35a3afbbef786a4bcde8a92a2d531b37becce365
 PKG_MIRROR_HASH:=d5757303e87c3f800040c289d806b602acde81bffccaa3290f99799bf3651f01
 
 PKG_MAINTAINER:=Imre Kaloz <kaloz@openwrt.org>
